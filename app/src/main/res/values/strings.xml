@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biencuta</string>
+    <string name="hello">Hello</string>
+    <string name="get_name">GET NAME</string>
+    <string name="next">NEXT</string>
+    <string name="photoSlider">PhotoSlider</string>
+    <string name="get_photos">GET PHOTOS</string>
+    <string name="back">BACK</string>
+</resources>
